@@ -89,3 +89,4 @@ Ensure your credentials are correct and the cluster is running before starting t
 - Consulted AI for TypeScript/NestJS type issues and dependency injection solutions, then reviewed and adapted the suggestions manually.
 - Used AI to optimize code structure and testing strategies, with human oversight.
 - Leveraged AI to draft DTO validation logic and service method structures, modifying them to meet project requirements.
+- Recommended best practices and code improvements, such as Redis caching, threshold alerts, and DTO validation enhancements.
