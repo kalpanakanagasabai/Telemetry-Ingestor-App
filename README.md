@@ -27,8 +27,8 @@ flowchart LR
 
 Clone the repository:
 
-git clone <repo-url>
-cd telemetry-ingestor_app
+git clone https://github.com/kalpanakanagasabai/Telemetry-Ingestor-App.git
+cd telemetry-ingestor_App
 
 
 # Install dependencies:
