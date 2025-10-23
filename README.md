@@ -61,13 +61,13 @@ I used webhook.site
 
 webhook URL: https://webhook.site/cd983fbb-1b49-473f-bc1e-05d63cc80cc7
 
-Screenshot of received alerts is available in /docs/webhook.png.
+**Screenshot of received alerts is available in /docs/webhook.png.**
 
 
 # MongoDB Atlas
 
 Connected using MONGODB_URI in .env.
-Screenshot of Atlas connection note is available in /docs/Atlas_connection_note.PNG
+**Screenshot of Atlas connection note is available in /docs/Atlas_connection_note.PNG
 
 # MongoDB Atlas Connection Note
 
